@@ -30,20 +30,20 @@ This project focuses on constructing an optimized index fund to closely track th
    ```bash
    git clone https://github.com/yourusername/nasdaq100-portfolio-optimization
    ```
-2. Install Dependencies:
+2. **Install Dependencies**:
   ```bash
   pip install -r requirements.txt
   ```
-3. Data Preparation:
+3. **Data Preparation**:
   Use the provided scripts to preprocess historical return data for the NASDAQ-100.
 
-4. Run the Optimization Models:
+4. **Run the Optimization Models**:
   Execute the Python scripts to perform integer and linear programming for stock selection and weight optimization.
 
-5. Analyze Results:
+5. **Analyze Results**:
   Check the output reports for tracking error metrics and model performance.
 
-6. Future Applications
+6. **Future Applications**:
 * Extended Asset Classes: Apply the optimization framework to other index funds or asset classes, such as S&P 500 or   emerging markets.
 * Dynamic Rebalancing Strategies: Research the impact of more frequent rebalancing and its effect on tracking performance.
 * Integration with Real-Time Data: Incorporate real-time market data to make the model adaptive to changing market conditions.
