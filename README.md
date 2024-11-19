@@ -50,7 +50,6 @@ This project focuses on constructing an optimized index fund to closely track th
 
 ## Contact
 For questions or further information, please contact:
-* Email: gayathreegopi@utexas.edu
 * LinkedIn: linkedin.com/in/gayathreegopi
 
 ## Acknowledgments
