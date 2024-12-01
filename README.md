@@ -50,7 +50,7 @@ This project focuses on constructing an optimized index fund to closely track th
 
 ## Contact
 For questions or further information, please contact:
-* LinkedIn: linkedin.com/in/gayathreegopi
+* LinkedIn: [linkedin.com/in/gayathreegopi](https://linkedin.com/in/gayathreegopi)
 
 ## Acknowledgments
 Special thanks to my project collaborators and mentors for their invaluable guidance.
